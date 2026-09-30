@@ -1,5 +1,5 @@
 #Nabila Nur Alizah 
-#Tugas sebaran Kontinu 1
+#Tugas sebaran Diskrit 1
 
 #1.jika rata-rata pelanggan datang ke toko adalah 3 orang per jam,modelkan dengan poisson dan hitung P(X lebih dari sama dengan 5)
 # Distribusi Poisson
